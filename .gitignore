@@ -10,4 +10,4 @@
 /Dist/target/
 nbactions.xml
 nb-configuration.xml
-.vs/**
+.vs/
