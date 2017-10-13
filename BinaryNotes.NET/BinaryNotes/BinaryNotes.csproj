@@ -2,6 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Product>BinaryNotes ASN.1 Library</Product>
+    <Description>ASN.1 encoding/decoding library, supporting the BER, DER and PER encodings.</Description>
+    <Authors>Abdulla G. Abdurakhmanov, Pavel Drasil, Mateusz Kramarz</Authors>
+    <Version>100.6.0</Version>
+    <AssemblyVersion>100.6.0.0</AssemblyVersion>
+    <FileVersion>100.6.0.0</FileVersion>
   </PropertyGroup>
 
 </Project>
