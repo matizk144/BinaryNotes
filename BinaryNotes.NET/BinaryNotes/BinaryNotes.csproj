@@ -8,10 +8,11 @@
     <Version>1.6.0</Version>
     <AssemblyVersion>1.6.0.0</AssemblyVersion>
     <FileVersion>1.6.0.0</FileVersion>
-    <PackageId>BinaryNotesCore</PackageId>
+    <PackageId>BinaryNotesStandard</PackageId>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
     <PackageProjectUrl>https://github.com/matizk144/BinaryNotes</PackageProjectUrl>
-    <PackageTags>ASN DER BER BinaryNotes Core Standard</PackageTags>
+    <PackageTags>ASN DER BER BinaryNotes Standard</PackageTags>
+    <PackageLicenseUrl>https://www.apache.org/licenses/LICENSE-2.0</PackageLicenseUrl>
   </PropertyGroup>
 
 </Project>
