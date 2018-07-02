@@ -2,12 +2,16 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <Product>BinaryNotes ASN.1 Library</Product>
-    <Description>ASN.1 encoding/decoding library, supporting the BER, DER and PER encodings.</Description>
+    <Product>BinaryNotes ASN.1 Library .NET Standard 2.0</Product>
+    <Description>ASN.1 encoding/decoding library, supporting the BER, DER and PER encodings. Package was compiled for .NET Standard 2.0</Description>
     <Authors>Abdulla G. Abdurakhmanov, Pavel Drasil, Mateusz Kramarz</Authors>
-    <Version>100.6.0</Version>
-    <AssemblyVersion>100.6.0.0</AssemblyVersion>
-    <FileVersion>100.6.0.0</FileVersion>
+    <Version>1.6.0</Version>
+    <AssemblyVersion>1.6.0.0</AssemblyVersion>
+    <FileVersion>1.6.0.0</FileVersion>
+    <PackageId>BinaryNotesCore</PackageId>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <PackageProjectUrl>https://github.com/matizk144/BinaryNotes</PackageProjectUrl>
+    <PackageTags>ASN DER BER BinaryNotes Core Standard</PackageTags>
   </PropertyGroup>
 
 </Project>
